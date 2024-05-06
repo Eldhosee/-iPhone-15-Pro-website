@@ -11,6 +11,9 @@ GSAP (Greensock),
 Vite,
 Tailwind CSS
 
+## Live Link
+
+iphone15pro1.netlify.app
 
 
 ## Images:
