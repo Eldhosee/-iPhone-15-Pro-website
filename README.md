@@ -15,6 +15,15 @@ Tailwind CSS
 
 [iphone15pro1.netlify.app](https://iphone15pro1.netlify.app/)
 
+## Video 
+
+
+
+
+https://github.com/Eldhosee/IPhone-15-Pro-website/assets/89120135/087d0a08-8e62-4d3c-a652-cf08b354b95f
+
+
+
 
 ## Images:
 ![image](https://github.com/Eldhosee/IPhone-15-Pro-website/assets/89120135/728a0e65-35f3-433a-8775-df36c0090089)
